@@ -1,0 +1,17 @@
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+span {
+    display: inline-block;
+    background: yellowgreen;
+    padding: 2%;
+    margin: 0 2%;
+    margin-bottom: 3%;
+}
+
+body {
+    text-align: center;
+}
